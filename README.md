@@ -21,6 +21,7 @@ Computer Vision, Deep Learning, Reinforcement Learning, and Physical AI.
 ### About Me
 
 - 🎓 B.S. Student in Applied Artificial Intelligence at Seoul National University of Science and Technology
+- 🎓 Double Major in Electrical and Information Engineering
 - 🧠 Interested in Physical AI, Computer Vision, Deep Learning, and Reinforcement Learning
 - 🤖 Aspiring to build intelligent systems that perceive, reason, and interact with the physical world
 - 🌍 Incoming Exchange Student at Amsterdam University of Applied Sciences (2026–2027)
@@ -57,3 +58,36 @@ Computer Vision, Deep Learning, Reinforcement Learning, and Physical AI.
 
 </p>
 
+
+### Experience
+
+- **Teaching Assistant** · Computational Thinking & AI *(2025)*
+- **Head of Administration** · Student Council, SeoulTech *(2025)*
+- **Project Planning Lead** · Goormthon Univ. SeoulTech *(2024–2025)*
+- **Exchange Student** · B.S. Student in Responsible AI at Amsterdam University of Applied Sciences *(2026–2027)*
+
+
+### Activities
+
+- **A.ING** · AI Study Club
+- **ENACTUS SeoulTech** · Entrepreneurship Club
+- **Applicator** · AI & Tech Community
+- **International Student Club** · Staff Member
+- **Kaggle ML Competition**
+- **KOPIS Big Data Competition**
+- **Winter SCI Bootcamp**
+- **Winter Patent Camp**
+
+
+### Awards
+
+- 🥈 **Grand Prize** · Winter SCI Bootcamp *(2026)*
+- 🥈 **Silver Prize** · SeoulTech Winter Patent Camp *(2025)*
+- 🏅 **Finalist** · KOPIS Big Data Competition *(2025)*
+
+
+### Certifications
+- **ADsP**
+- **AIDE Level 2**
+- **IELTS Overall 6.0** · CEFR B2
+- **ITQ** · Excel · PowerPoint · Hangul
