@@ -62,27 +62,35 @@ Computer Vision, Deep Learning, Reinforcement Learning, and Physical AI.
 ### Experience
 
 - **Teaching Assistant** · Computational Thinking & AI *(2025)*
-- **Head of Administration** · Student Council, SeoulTech *(2025)*
+- **Head of Administration** · Student Council, SeoulTech *(2024-2025)*
 - **Project Planning Lead** · Goormthon Univ. SeoulTech *(2024–2025)*
 - **Exchange Student** · B.S. Student in Responsible AI at Amsterdam University of Applied Sciences *(2026–2027)*
 
-
 ### Activities
 
-- **A.ING** · AI Study Club
-- **ENACTUS SeoulTech** · Entrepreneurship Club
-- **Applicator** · AI & Tech Community
-- **International Student Club** · Staff Member
-- **Kaggle ML Competition**
-- **KOPIS Big Data Competition**
-- **Winter SCI Bootcamp**
-- **Winter Patent Camp**
+#### 2026
+- **Pacely** — HCI Research Project: AI-powered productivity app for task planning, progress tracking, and adaptive goal management. 
+- **Winter SCI Bootcamp** — Enhanced an LLM, STT, and TTS system with scenario-driven optimization and real-time demonstrations: Firefighter Agent AI
+- **Exchange Student** — AUAS(HvA-Responsible AI)
 
+#### 2025
+- **Deep Learning Project** — kaggle:State Farm Distracted Driver Detection
+- **KOPIS Big Data Competition** — AI Solutions for the Performing Arts Industry: Optimization of Performing Arts Investment Strategies through Image-Based Genre Classification and Prediction of Success Rates by Timing and Region
+- **Machine Learning Competition** — kaggle:
+- **ENACTUS SeoulTech**
+- **Winter Patent Camp**
+- **A.ING competition** — kaggle: Age Group Classification from Facial Images
+-  FPGA-Based Stopwatch & Countdown Design
+
+#### 2024
+- **International Student Club**
+- **Goormthon Univ.**  — kaggle:State Farm Distracted Driver Detection
 
 ### Awards
 
-- 🥈 **Grand Prize** · Winter SCI Bootcamp *(2026)*
-- 🥈 **Silver Prize** · SeoulTech Winter Patent Camp *(2025)*
+- 🥈 **2nd Prize** · Winter SCI Bootcamp *(2026)*
+- 🥉 **3rd Prize** · SeoulTech A.ing Competition *(2025)*
+- 🥈 **2nd Prize** · SeoulTech Winter Patent Camp *(2025)*
 - 🏅 **Finalist** · KOPIS Big Data Competition *(2025)*
 
 
