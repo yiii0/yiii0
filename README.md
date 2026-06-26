@@ -1,7 +1,7 @@
 <div align="center">
 
 
- # Hi there, I'm Yi Young Kim 👋
+ ## Hi there, I'm Yi Young Kim 👋
 
 ### Building intelligent systems at the intersection of Artificial Intelligence and Physical AI.
 
