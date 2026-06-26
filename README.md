@@ -1,18 +1,16 @@
-## Hi there 👋 
-## I'm Yi Young Kim 👋
-# Building intelligent systems at the intersection of Artificial Intelligence and Robotics.
+<div align="center">
 
-<!--
-**yiii0/yiii0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ # Hi there, I'm Yi Young Kim 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Building intelligent systems at the intersection of Artificial Intelligence and Physical AI.
+
+</div>
+
+---
+
+### About Me
+
+- 🎓 Applied Artificial Intelligence student at Seoul National University of Science and Technology
+- 🤖 Interested in Robotics, Computer Vision, Deep Learning, and Reinforcement Learning
+- 💡 Passionate about building intelligent systems that interact with the real world
