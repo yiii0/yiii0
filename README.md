@@ -1,16 +1,35 @@
 <div align="center">
 
+<br>
 
- ## Hi there, I'm Yi Young Kim 👋
+<h2>Hi, I'm Yi Young Kim 👋</h2>
 
-### Building intelligent systems at the intersection of Artificial Intelligence and Physical AI.
+<p>
+  <strong>Applied AI Undergraduate | Physical AI | Computer Vision | Robot Learning</strong>
+</p>
+
+<p>
+Applied Artificial Intelligence undergraduate passionate about
+Computer Vision, Deep Learning, Reinforcement Learning, and Physical AI.
+</p>
+
+<br>
 
 </div>
 
----
 
 ### About Me
 
-- 🎓 Applied Artificial Intelligence student at Seoul National University of Science and Technology
-- 🤖 Interested in Robotics, Computer Vision, Deep Learning, and Reinforcement Learning
-- 💡 Passionate about building intelligent systems that interact with the real world
+- 🎓 B.S. Student in Applied Artificial Intelligence at Seoul National University of Science and Technology
+- 🧠 Interested in Physical AI, Computer Vision, Deep Learning, and Reinforcement Learning
+- 🤖 Aspiring to build intelligent systems that perceive, reason, and interact with the physical world
+- 🌍 Incoming Exchange Student at Amsterdam University of Applied Sciences (2026–2027)
+
+
+### Research Interests
+
+- Physical AI
+- Computer Vision
+- Deep Learning
+- Reinforcement Learning
+- Robot Learning
